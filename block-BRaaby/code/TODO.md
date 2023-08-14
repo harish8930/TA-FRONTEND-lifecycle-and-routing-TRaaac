@@ -1,6 +1,6 @@
 ## Random Person
 
-Use the data of a random person coming from an external API given below and display it in an UI.
+Use the data of a random person coming from an external API given below and display it in an UI..
 
 - Use the data coming from `https://randomuser.me/api/`
 - The information coming from the API contains lot of information about a random person.
